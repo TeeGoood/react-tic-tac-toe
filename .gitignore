@@ -8,6 +8,8 @@
 
 # production
 
+#dev
+/dev
 
 # misc
 .DS_Store
